@@ -20,9 +20,9 @@ CHECKLIST FOR THIS PAGE:
 
 <div class="hero">
   <img src="assets/images/profile.png" alt="Kristofers Krumins" class="profile-photo">
-  <h1>[YOUR NAME]</h1>
+  <h1>Kristofers Krūmiņš</h1>
   <p><strong>Student, kind of</strong></p>
-  <p><em>Turning spatial data into insights for Area Studies | GIS | Remote Sensing | Python]</em></p>
+  <p><em>Turning spatial data into insights for Area Studies | GIS | Remote Sensing | Python</em></p>
 </div>
 
 ---
@@ -110,5 +110,5 @@ I have lots to say here but I will update this later...
 
 ## Connect
 
-[GitHub](https://github.com/[YOUR-GITHUB-USERNAME]){ .md-button }
-[LinkedIn](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]){ .md-button }
+[GitHub](https://github.com/kruminskristofers){ .md-button }
+[LinkedIn](https://linkedin.com/in/kristofers-kārlis-krūmiņš-31994b152/){ .md-button }
